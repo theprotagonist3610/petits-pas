@@ -1,0 +1,90 @@
+@import 'tailwindcss';
+@import '@fontsource-variable/nunito';
+
+@theme {
+  --font-sans: 'Nunito Variable', ui-rounded, system-ui, sans-serif;
+
+  /* Palette issue du logo */
+  --color-sky-brand: #2f7fc1;
+  --color-sky-soft: #e3f0fa;
+  --color-leaf: #3fa776;
+  --color-leaf-soft: #e2f4ea;
+  --color-sun: #ef8445;
+  --color-sun-soft: #fdeadd;
+  --color-honey: #f2b134;
+  --color-honey-soft: #fdf3dc;
+  --color-teal-brand: #2b9c9a;
+  --color-teal-soft: #dff2f1;
+
+  --color-cream: #fffaf3;
+  /* Fond des cartes et des champs (blanc en thème clair). */
+  --color-surface: #ffffff;
+  --color-ink: #1f2a37;
+  --color-ink-soft: #5b6573;
+  --color-line: #ece4d8;
+
+  /* Rouge des actions destructrices (texte blanc dessus : contraste 4,8:1, identique dans les deux thèmes). */
+  --color-danger: #dc2626;
+}
+
+/* Variante `dark:` de Tailwind, pilotée par le réglage Soleil / Lune (attribut data-theme de <html>). */
+@custom-variant dark (&:where([data-theme='dark'], [data-theme='dark'] *));
+
+/* Thème Lune : mêmes noms de couleurs, valeurs sombres. Contrastes vérifiés pour le texte (≥ 4,5:1). */
+:root[data-theme='dark'] {
+  color-scheme: dark;
+
+  --color-sky-brand: #3a8bd0;
+  --color-sky-soft: #1b3044;
+  --color-leaf: #4fbf8a;
+  --color-leaf-soft: #17352a;
+  --color-sun: #f59a62;
+  --color-sun-soft: #3a2519;
+  --color-honey: #f5c04f;
+  --color-honey-soft: #362c17;
+  --color-teal-brand: #3cb8b5;
+  --color-teal-soft: #153533;
+
+  --color-cream: #10161e;
+  --color-surface: #1a222d;
+  --color-ink: #e7ecf2;
+  --color-ink-soft: #a2adba;
+  --color-line: #2a3442;
+
+  /* Alertes et erreurs */
+  --color-red-50: #3a1a1d;
+  --color-red-200: #6b2b30;
+  --color-red-400: #f87171;
+  --color-red-600: #f87171;
+  --color-red-700: #fca5a5;
+  --color-red-800: #fecaca;
+}
+
+:root {
+  color-scheme: light;
+}
+
+html,
+body {
+  background: var(--color-cream);
+  color: var(--color-ink);
+  -webkit-tap-highlight-color: transparent;
+  overscroll-behavior-y: none;
+}
+
+body {
+  font-family: var(--font-sans);
+}
+
+input,
+select,
+button {
+  font: inherit;
+}
+
+.pt-safe {
+  padding-top: env(safe-area-inset-top);
+}
+.pb-safe {
+  padding-bottom: env(safe-area-inset-bottom);
+}

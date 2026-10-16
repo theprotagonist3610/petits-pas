@@ -1,0 +1,1126 @@
+[
+ {
+  "id": "cdc-2m-social-1",
+  "months": 2,
+  "domain": "social",
+  "fr": "Se calme quand on lui parle ou qu'on le prend dans les bras",
+  "en": "Calms down when spoken to or picked up"
+ },
+ {
+  "id": "cdc-2m-social-2",
+  "months": 2,
+  "domain": "social",
+  "fr": "Regarde votre visage",
+  "en": "Looks at your face"
+ },
+ {
+  "id": "cdc-2m-social-3",
+  "months": 2,
+  "domain": "social",
+  "fr": "Semble content de vous voir quand vous vous approchez",
+  "en": "Seems happy to see you when you walk up to her"
+ },
+ {
+  "id": "cdc-2m-social-4",
+  "months": 2,
+  "domain": "social",
+  "fr": "Sourit quand vous lui parlez ou lui souriez",
+  "en": "Smiles when you talk to or smile at her"
+ },
+ {
+  "id": "cdc-2m-language-1",
+  "months": 2,
+  "domain": "language",
+  "fr": "Émet d'autres sons que des pleurs",
+  "en": "Makes sounds other than crying"
+ },
+ {
+  "id": "cdc-2m-language-2",
+  "months": 2,
+  "domain": "language",
+  "fr": "Réagit aux bruits forts",
+  "en": "Reacts to loud sounds"
+ },
+ {
+  "id": "cdc-2m-cognitive-1",
+  "months": 2,
+  "domain": "cognitive",
+  "fr": "Vous suit du regard quand vous bougez",
+  "en": "Watches you as you move"
+ },
+ {
+  "id": "cdc-2m-cognitive-2",
+  "months": 2,
+  "domain": "cognitive",
+  "fr": "Regarde un jouet pendant plusieurs secondes",
+  "en": "Looks at a toy for several seconds"
+ },
+ {
+  "id": "cdc-2m-movement-1",
+  "months": 2,
+  "domain": "movement",
+  "fr": "Lève la tête quand il est sur le ventre",
+  "en": "Holds head up when on tummy"
+ },
+ {
+  "id": "cdc-2m-movement-2",
+  "months": 2,
+  "domain": "movement",
+  "fr": "Bouge les deux bras et les deux jambes",
+  "en": "Moves both arms and both legs"
+ },
+ {
+  "id": "cdc-2m-movement-3",
+  "months": 2,
+  "domain": "movement",
+  "fr": "Ouvre brièvement les mains",
+  "en": "Opens hands briefly"
+ },
+ {
+  "id": "cdc-4m-social-1",
+  "months": 4,
+  "domain": "social",
+  "fr": "Sourit de lui-même pour attirer votre attention",
+  "en": "Smiles on his own to get your attention"
+ },
+ {
+  "id": "cdc-4m-social-2",
+  "months": 4,
+  "domain": "social",
+  "fr": "Glousse (pas encore un vrai rire) quand vous essayez de le faire rire",
+  "en": "Chuckles (not yet a full laugh) when you try to make him laugh"
+ },
+ {
+  "id": "cdc-4m-social-3",
+  "months": 4,
+  "domain": "social",
+  "fr": "Vous regarde, bouge ou fait des sons pour attirer ou garder votre attention",
+  "en": "Looks at you, moves, or makes sounds to get or keep your attention"
+ },
+ {
+  "id": "cdc-4m-language-1",
+  "months": 4,
+  "domain": "language",
+  "fr": "Fait des sons comme « oooo », « aahh » (gazouillis)",
+  "en": "Makes sounds like \"oooo\", \"aahh\" (cooing)"
+ },
+ {
+  "id": "cdc-4m-language-2",
+  "months": 4,
+  "domain": "language",
+  "fr": "Vous répond par des sons quand vous lui parlez",
+  "en": "Makes sounds back when you talk to him"
+ },
+ {
+  "id": "cdc-4m-language-3",
+  "months": 4,
+  "domain": "language",
+  "fr": "Tourne la tête vers le son de votre voix",
+  "en": "Turns head towards the sound of your voice"
+ },
+ {
+  "id": "cdc-4m-cognitive-1",
+  "months": 4,
+  "domain": "cognitive",
+  "fr": "S'il a faim, ouvre la bouche en voyant le sein ou le biberon",
+  "en": "If hungry, opens mouth when he sees breast or bottle"
+ },
+ {
+  "id": "cdc-4m-cognitive-2",
+  "months": 4,
+  "domain": "cognitive",
+  "fr": "Regarde ses mains avec intérêt",
+  "en": "Looks at her hands with interest"
+ },
+ {
+  "id": "cdc-4m-movement-1",
+  "months": 4,
+  "domain": "movement",
+  "fr": "Tient sa tête bien droite, sans soutien, quand vous le portez",
+  "en": "Holds head steady without support when you are holding him"
+ },
+ {
+  "id": "cdc-4m-movement-2",
+  "months": 4,
+  "domain": "movement",
+  "fr": "Tient un jouet quand vous le lui mettez dans la main",
+  "en": "Holds a toy when you put it in his hand"
+ },
+ {
+  "id": "cdc-4m-movement-3",
+  "months": 4,
+  "domain": "movement",
+  "fr": "Balance le bras pour taper dans les jouets",
+  "en": "Uses his arm to swing at toys"
+ },
+ {
+  "id": "cdc-4m-movement-4",
+  "months": 4,
+  "domain": "movement",
+  "fr": "Porte ses mains à la bouche",
+  "en": "Brings hands to mouth"
+ },
+ {
+  "id": "cdc-4m-movement-5",
+  "months": 4,
+  "domain": "movement",
+  "fr": "Se soulève sur les coudes et les avant-bras quand il est sur le ventre",
+  "en": "Pushes up onto elbows/forearms when on tummy"
+ },
+ {
+  "id": "cdc-6m-social-1",
+  "months": 6,
+  "domain": "social",
+  "fr": "Reconnaît les personnes familières",
+  "en": "Knows familiar people"
+ },
+ {
+  "id": "cdc-6m-social-2",
+  "months": 6,
+  "domain": "social",
+  "fr": "Aime se regarder dans un miroir",
+  "en": "Likes to look at self in a mirror"
+ },
+ {
+  "id": "cdc-6m-social-3",
+  "months": 6,
+  "domain": "social",
+  "fr": "Rit",
+  "en": "Laughs"
+ },
+ {
+  "id": "cdc-6m-language-1",
+  "months": 6,
+  "domain": "language",
+  "fr": "Fait des sons chacun son tour avec vous, comme une conversation",
+  "en": "Takes turns making sounds with you"
+ },
+ {
+  "id": "cdc-6m-language-2",
+  "months": 6,
+  "domain": "language",
+  "fr": "Fait des « prouts » avec la bouche (tire la langue et souffle)",
+  "en": "Blows \"raspberries\" (sticks tongue out and blows)"
+ },
+ {
+  "id": "cdc-6m-language-3",
+  "months": 6,
+  "domain": "language",
+  "fr": "Pousse de petits cris aigus",
+  "en": "Makes squealing noises"
+ },
+ {
+  "id": "cdc-6m-cognitive-1",
+  "months": 6,
+  "domain": "cognitive",
+  "fr": "Met les objets à la bouche pour les découvrir",
+  "en": "Puts things in her mouth to explore them"
+ },
+ {
+  "id": "cdc-6m-cognitive-2",
+  "months": 6,
+  "domain": "cognitive",
+  "fr": "Tend la main pour attraper un jouet qu'il veut",
+  "en": "Reaches to grab a toy she wants"
+ },
+ {
+  "id": "cdc-6m-cognitive-3",
+  "months": 6,
+  "domain": "cognitive",
+  "fr": "Ferme la bouche pour montrer qu'il ne veut plus manger",
+  "en": "Closes lips to show she doesn't want more food"
+ },
+ {
+  "id": "cdc-6m-movement-1",
+  "months": 6,
+  "domain": "movement",
+  "fr": "Se retourne du ventre sur le dos",
+  "en": "Rolls from tummy to back"
+ },
+ {
+  "id": "cdc-6m-movement-2",
+  "months": 6,
+  "domain": "movement",
+  "fr": "Se soulève bras tendus quand il est sur le ventre",
+  "en": "Pushes up with straight arms when on tummy"
+ },
+ {
+  "id": "cdc-6m-movement-3",
+  "months": 6,
+  "domain": "movement",
+  "fr": "S'appuie sur ses mains pour se maintenir assis",
+  "en": "Leans on hands to support herself when sitting"
+ },
+ {
+  "id": "cdc-9m-social-1",
+  "months": 9,
+  "domain": "social",
+  "fr": "Est timide, s'accroche à vous ou a peur devant les inconnus",
+  "en": "Is shy, clingy, or fearful around strangers"
+ },
+ {
+  "id": "cdc-9m-social-2",
+  "months": 9,
+  "domain": "social",
+  "fr": "Montre plusieurs expressions du visage : joie, tristesse, colère, surprise",
+  "en": "Shows several facial expressions, like happy, sad, angry, and surprised"
+ },
+ {
+  "id": "cdc-9m-social-3",
+  "months": 9,
+  "domain": "social",
+  "fr": "Regarde quand vous l'appelez par son prénom",
+  "en": "Looks when you call her name"
+ },
+ {
+  "id": "cdc-9m-social-4",
+  "months": 9,
+  "domain": "social",
+  "fr": "Réagit quand vous partez (vous regarde, tend les bras ou pleure)",
+  "en": "Reacts when you leave (looks, reaches for you, or cries)"
+ },
+ {
+  "id": "cdc-9m-social-5",
+  "months": 9,
+  "domain": "social",
+  "fr": "Sourit ou rit quand vous jouez à « coucou, caché ! »",
+  "en": "Smiles or laughs when you play peek-a-boo"
+ },
+ {
+  "id": "cdc-9m-language-1",
+  "months": 9,
+  "domain": "language",
+  "fr": "Fait beaucoup de sons différents, comme « mamamama » et « babababa »",
+  "en": "Makes a lot of different sounds like \"mamamama\" and \"bababababa\""
+ },
+ {
+  "id": "cdc-9m-language-2",
+  "months": 9,
+  "domain": "language",
+  "fr": "Lève les bras pour être porté",
+  "en": "Lifts arms up to be picked up"
+ },
+ {
+  "id": "cdc-9m-cognitive-1",
+  "months": 9,
+  "domain": "cognitive",
+  "fr": "Cherche des yeux un objet tombé hors de sa vue (cuillère, jouet)",
+  "en": "Looks for objects when dropped out of sight (like his spoon or toy)"
+ },
+ {
+  "id": "cdc-9m-cognitive-2",
+  "months": 9,
+  "domain": "cognitive",
+  "fr": "Tape deux objets l'un contre l'autre",
+  "en": "Bangs two things together"
+ },
+ {
+  "id": "cdc-9m-movement-1",
+  "months": 9,
+  "domain": "movement",
+  "fr": "S'assoit tout seul",
+  "en": "Gets to a sitting position by herself"
+ },
+ {
+  "id": "cdc-9m-movement-2",
+  "months": 9,
+  "domain": "movement",
+  "fr": "Passe un objet d'une main à l'autre",
+  "en": "Moves things from one hand to her other hand"
+ },
+ {
+  "id": "cdc-9m-movement-3",
+  "months": 9,
+  "domain": "movement",
+  "fr": "Ramène la nourriture vers lui avec les doigts, comme un râteau",
+  "en": "Uses fingers to \"rake\" food towards himself"
+ },
+ {
+  "id": "cdc-9m-movement-4",
+  "months": 9,
+  "domain": "movement",
+  "fr": "Tient assis sans appui",
+  "en": "Sits without support"
+ },
+ {
+  "id": "cdc-12m-social-1",
+  "months": 12,
+  "domain": "social",
+  "fr": "Joue avec vous à des jeux de mains, comme « bravo » ou « tape-tape »",
+  "en": "Plays games with you, like pat-a-cake",
+  "adapted": true
+ },
+ {
+  "id": "cdc-12m-language-1",
+  "months": 12,
+  "domain": "language",
+  "fr": "Fait « au revoir » de la main",
+  "en": "Waves \"bye-bye\""
+ },
+ {
+  "id": "cdc-12m-language-2",
+  "months": 12,
+  "domain": "language",
+  "fr": "Appelle un parent « maman », « papa » ou par un autre petit nom",
+  "en": "Calls a parent \"mama\" or \"dada\" or another special name"
+ },
+ {
+  "id": "cdc-12m-language-3",
+  "months": 12,
+  "domain": "language",
+  "fr": "Comprend « non » (s'arrête un instant ou arrête ce qu'il fait)",
+  "en": "Understands \"no\" (pauses briefly or stops when you say it)"
+ },
+ {
+  "id": "cdc-12m-cognitive-1",
+  "months": 12,
+  "domain": "cognitive",
+  "fr": "Met un objet dans un récipient, comme un cube dans une tasse",
+  "en": "Puts something in a container, like a block in a cup"
+ },
+ {
+  "id": "cdc-12m-cognitive-2",
+  "months": 12,
+  "domain": "cognitive",
+  "fr": "Cherche un objet qu'il vous a vu cacher, comme un jouet sous un pagne",
+  "en": "Looks for things he sees you hide, like a toy under a blanket",
+  "adapted": true
+ },
+ {
+  "id": "cdc-12m-movement-1",
+  "months": 12,
+  "domain": "movement",
+  "fr": "Se met debout en s'agrippant",
+  "en": "Pulls up to stand"
+ },
+ {
+  "id": "cdc-12m-movement-2",
+  "months": 12,
+  "domain": "movement",
+  "fr": "Marche en se tenant aux meubles",
+  "en": "Walks, holding on to furniture"
+ },
+ {
+  "id": "cdc-12m-movement-3",
+  "months": 12,
+  "domain": "movement",
+  "fr": "Boit dans un gobelet sans couvercle que vous tenez",
+  "en": "Drinks from a cup without a lid, as you hold it"
+ },
+ {
+  "id": "cdc-12m-movement-4",
+  "months": 12,
+  "domain": "movement",
+  "fr": "Attrape de petits objets entre le pouce et l'index, comme des miettes",
+  "en": "Picks things up between thumb and pointer finger, like small bits of food"
+ },
+ {
+  "id": "cdc-15m-social-1",
+  "months": 15,
+  "domain": "social",
+  "fr": "Imite les autres enfants en jouant, par exemple sortir les jouets d'une boîte comme eux",
+  "en": "Copies other children while playing, like taking toys out of a container when another child does"
+ },
+ {
+  "id": "cdc-15m-social-2",
+  "months": 15,
+  "domain": "social",
+  "fr": "Vous montre un objet qu'il aime",
+  "en": "Shows you an object she likes"
+ },
+ {
+  "id": "cdc-15m-social-3",
+  "months": 15,
+  "domain": "social",
+  "fr": "Tape des mains quand il est content",
+  "en": "Claps when excited"
+ },
+ {
+  "id": "cdc-15m-social-4",
+  "months": 15,
+  "domain": "social",
+  "fr": "Serre une poupée ou une peluche dans ses bras",
+  "en": "Hugs stuffed doll or other toy"
+ },
+ {
+  "id": "cdc-15m-social-5",
+  "months": 15,
+  "domain": "social",
+  "fr": "Vous montre son affection (câlins, bisous)",
+  "en": "Shows you affection (hugs, cuddles, or kisses you)"
+ },
+ {
+  "id": "cdc-15m-language-1",
+  "months": 15,
+  "domain": "language",
+  "fr": "Essaie de dire un ou deux mots en plus de « maman » ou « papa », comme « ba » pour ballon",
+  "en": "Tries to say one or two words besides \"mama\" or \"dada,\" like \"ba\" for ball or \"da\" for dog"
+ },
+ {
+  "id": "cdc-15m-language-2",
+  "months": 15,
+  "domain": "language",
+  "fr": "Regarde un objet familier quand vous le nommez",
+  "en": "Looks at a familiar object when you name it"
+ },
+ {
+  "id": "cdc-15m-language-3",
+  "months": 15,
+  "domain": "language",
+  "fr": "Suit une consigne accompagnée d'un geste : vous donne un jouet quand vous tendez la main en disant « Donne-moi le jouet »",
+  "en": "Follows directions given with both a gesture and words. For example, he gives you a toy when you hold out your hand and say, \"Give me the toy.\""
+ },
+ {
+  "id": "cdc-15m-language-4",
+  "months": 15,
+  "domain": "language",
+  "fr": "Pointe du doigt pour demander quelque chose ou de l'aide",
+  "en": "Points to ask for something or to get help"
+ },
+ {
+  "id": "cdc-15m-cognitive-1",
+  "months": 15,
+  "domain": "cognitive",
+  "fr": "Essaie d'utiliser les objets correctement, comme un téléphone, un gobelet ou un livre",
+  "en": "Tries to use things the right way, like a phone, cup, or book"
+ },
+ {
+  "id": "cdc-15m-cognitive-2",
+  "months": 15,
+  "domain": "cognitive",
+  "fr": "Empile au moins deux petits objets, comme des cubes",
+  "en": "Stacks at least two small objects, like blocks"
+ },
+ {
+  "id": "cdc-15m-movement-1",
+  "months": 15,
+  "domain": "movement",
+  "fr": "Fait quelques pas tout seul",
+  "en": "Takes a few steps on his own"
+ },
+ {
+  "id": "cdc-15m-movement-2",
+  "months": 15,
+  "domain": "movement",
+  "fr": "Mange un peu avec les doigts, tout seul",
+  "en": "Uses fingers to feed herself some food"
+ },
+ {
+  "id": "cdc-18m-social-1",
+  "months": 18,
+  "domain": "social",
+  "fr": "S’éloigne de vous, mais vérifie que vous restez près de lui",
+  "en": "Moves away from you, but looks to make sure you are close by"
+ },
+ {
+  "id": "cdc-18m-social-2",
+  "months": 18,
+  "domain": "social",
+  "fr": "Pointe du doigt pour vous montrer quelque chose d'intéressant",
+  "en": "Points to show you something interesting"
+ },
+ {
+  "id": "cdc-18m-social-3",
+  "months": 18,
+  "domain": "social",
+  "fr": "Tend les mains pour que vous les laviez",
+  "en": "Puts hands out for you to wash them"
+ },
+ {
+  "id": "cdc-18m-social-4",
+  "months": 18,
+  "domain": "social",
+  "fr": "Regarde quelques pages d'un livre avec vous",
+  "en": "Looks at a few pages in a book with you"
+ },
+ {
+  "id": "cdc-18m-social-5",
+  "months": 18,
+  "domain": "social",
+  "fr": "Vous aide à l'habiller en passant le bras dans la manche ou en levant le pied",
+  "en": "Helps you dress him by pushing arm through sleeve or lifting up foot"
+ },
+ {
+  "id": "cdc-18m-language-1",
+  "months": 18,
+  "domain": "language",
+  "fr": "Essaie de dire au moins trois mots en plus de « maman » ou « papa »",
+  "en": "Tries to say three or more words besides \"mama\" or \"dada\""
+ },
+ {
+  "id": "cdc-18m-language-2",
+  "months": 18,
+  "domain": "language",
+  "fr": "Suit une consigne simple sans geste, comme vous donner le jouet quand vous dites « Donne-le-moi »",
+  "en": "Follows one-step directions without any gestures, like giving you the toy when you say, \"Give it to me.\""
+ },
+ {
+  "id": "cdc-18m-cognitive-1",
+  "months": 18,
+  "domain": "cognitive",
+  "fr": "Vous imite dans les tâches de la maison, comme balayer",
+  "en": "Copies you doing chores, like sweeping with a broom"
+ },
+ {
+  "id": "cdc-18m-cognitive-2",
+  "months": 18,
+  "domain": "cognitive",
+  "fr": "Joue simplement avec ses jouets, comme pousser une petite voiture",
+  "en": "Plays with toys in a simple way, like pushing a toy car"
+ },
+ {
+  "id": "cdc-18m-movement-1",
+  "months": 18,
+  "domain": "movement",
+  "fr": "Marche sans se tenir à personne ni à rien",
+  "en": "Walks without holding on to anyone or anything"
+ },
+ {
+  "id": "cdc-18m-movement-2",
+  "months": 18,
+  "domain": "movement",
+  "fr": "Gribouille",
+  "en": "Scribbles"
+ },
+ {
+  "id": "cdc-18m-movement-3",
+  "months": 18,
+  "domain": "movement",
+  "fr": "Boit dans un gobelet sans couvercle, en renversant parfois un peu",
+  "en": "Drinks from a cup without a lid and may spill sometimes"
+ },
+ {
+  "id": "cdc-18m-movement-4",
+  "months": 18,
+  "domain": "movement",
+  "fr": "Mange seul avec les doigts",
+  "en": "Feeds himself with his fingers"
+ },
+ {
+  "id": "cdc-18m-movement-5",
+  "months": 18,
+  "domain": "movement",
+  "fr": "Essaie d'utiliser une cuillère",
+  "en": "Tries to use a spoon"
+ },
+ {
+  "id": "cdc-18m-movement-6",
+  "months": 18,
+  "domain": "movement",
+  "fr": "Monte et descend seul d'une chaise ou d'un banc",
+  "en": "Climbs on and off a couch or chair without help",
+  "adapted": true
+ },
+ {
+  "id": "cdc-24m-social-1",
+  "months": 24,
+  "domain": "social",
+  "fr": "Remarque quand quelqu'un a mal ou est triste (s'arrête ou a l'air triste quand quelqu'un pleure)",
+  "en": "Notices when others are hurt or upset, like pausing or looking sad when someone is crying"
+ },
+ {
+  "id": "cdc-24m-social-2",
+  "months": 24,
+  "domain": "social",
+  "fr": "Regarde votre visage pour savoir comment réagir dans une situation nouvelle",
+  "en": "Looks at your face to see how to react in a new situation"
+ },
+ {
+  "id": "cdc-24m-language-1",
+  "months": 24,
+  "domain": "language",
+  "fr": "Montre des choses dans un livre quand vous demandez « Où est le chat ? »",
+  "en": "Points to things in a book when you ask, like \"Where is the bear?\"",
+  "adapted": true
+ },
+ {
+  "id": "cdc-24m-language-2",
+  "months": 24,
+  "domain": "language",
+  "fr": "Dit au moins deux mots ensemble, comme « encore lait »",
+  "en": "Says at least two words together, like \"More milk.\""
+ },
+ {
+  "id": "cdc-24m-language-3",
+  "months": 24,
+  "domain": "language",
+  "fr": "Montre au moins deux parties du corps quand vous le lui demandez",
+  "en": "Points to at least two body parts when you ask him to show you"
+ },
+ {
+  "id": "cdc-24m-language-4",
+  "months": 24,
+  "domain": "language",
+  "fr": "Utilise d'autres gestes que « au revoir » et pointer, comme envoyer un bisou ou faire « oui » de la tête",
+  "en": "Uses more gestures than just waving and pointing, like blowing a kiss or nodding yes"
+ },
+ {
+  "id": "cdc-24m-cognitive-1",
+  "months": 24,
+  "domain": "cognitive",
+  "fr": "Tient un objet d'une main et se sert de l'autre, par exemple tenir une boîte et enlever le couvercle",
+  "en": "Holds something in one hand while using the other hand; for example, holding a container and taking the lid off"
+ },
+ {
+  "id": "cdc-24m-cognitive-2",
+  "months": 24,
+  "domain": "cognitive",
+  "fr": "Essaie d'actionner les boutons ou interrupteurs d'un jouet",
+  "en": "Tries to use switches, knobs, or buttons on a toy"
+ },
+ {
+  "id": "cdc-24m-cognitive-3",
+  "months": 24,
+  "domain": "cognitive",
+  "fr": "Joue avec plusieurs jouets à la fois, comme mettre de la dînette dans une assiette",
+  "en": "Plays with more than one toy at the same time, like putting toy food on a toy plate"
+ },
+ {
+  "id": "cdc-24m-movement-1",
+  "months": 24,
+  "domain": "movement",
+  "fr": "Donne un coup de pied dans un ballon",
+  "en": "Kicks a ball"
+ },
+ {
+  "id": "cdc-24m-movement-2",
+  "months": 24,
+  "domain": "movement",
+  "fr": "Court",
+  "en": "Runs"
+ },
+ {
+  "id": "cdc-24m-movement-3",
+  "months": 24,
+  "domain": "movement",
+  "fr": "Monte quelques marches en marchant (sans grimper), avec ou sans aide",
+  "en": "Walks (not climbs) up a few stairs with or without help"
+ },
+ {
+  "id": "cdc-24m-movement-4",
+  "months": 24,
+  "domain": "movement",
+  "fr": "Mange avec une cuillère",
+  "en": "Eats with a spoon"
+ },
+ {
+  "id": "cdc-30m-social-1",
+  "months": 30,
+  "domain": "social",
+  "fr": "Joue à côté d'autres enfants, et parfois avec eux",
+  "en": "Plays next to other children and sometimes plays with them"
+ },
+ {
+  "id": "cdc-30m-social-2",
+  "months": 30,
+  "domain": "social",
+  "fr": "Vous montre ce qu’il sait faire en disant « Regarde ! »",
+  "en": "Shows you what she can do by saying, \"Look at me!\""
+ },
+ {
+  "id": "cdc-30m-social-3",
+  "months": 30,
+  "domain": "social",
+  "fr": "Suit des routines simples, comme aider à ranger les jouets quand vous dites « On range ! »",
+  "en": "Follows simple routines when told, like helping to pick up toys when you say, \"It's clean-up time.\""
+ },
+ {
+  "id": "cdc-30m-language-1",
+  "months": 30,
+  "domain": "language",
+  "fr": "Dit environ 50 mots",
+  "en": "Says about 50 words"
+ },
+ {
+  "id": "cdc-30m-language-2",
+  "months": 30,
+  "domain": "language",
+  "fr": "Dit au moins deux mots ensemble dont un verbe d'action, comme « chien court »",
+  "en": "Says two or more words together, with one action word, like \"Doggie run\""
+ },
+ {
+  "id": "cdc-30m-language-3",
+  "months": 30,
+  "domain": "language",
+  "fr": "Nomme des choses dans un livre quand vous montrez et demandez « C'est quoi ? »",
+  "en": "Names things in a book when you point and ask, \"What is this?\""
+ },
+ {
+  "id": "cdc-30m-language-4",
+  "months": 30,
+  "domain": "language",
+  "fr": "Dit des mots comme « je », « moi » ou « nous »",
+  "en": "Says words like \"I,\" \"me,\" or \"we\""
+ },
+ {
+  "id": "cdc-30m-cognitive-1",
+  "months": 30,
+  "domain": "cognitive",
+  "fr": "Fait semblant avec des objets, comme donner à manger un cube à une poupée",
+  "en": "Uses things to pretend, like feeding a block to a doll as if it were food"
+ },
+ {
+  "id": "cdc-30m-cognitive-2",
+  "months": 30,
+  "domain": "cognitive",
+  "fr": "Résout de petits problèmes, comme monter sur un tabouret pour attraper quelque chose",
+  "en": "Shows simple problem-solving skills, like standing on a small stool to reach something"
+ },
+ {
+  "id": "cdc-30m-cognitive-3",
+  "months": 30,
+  "domain": "cognitive",
+  "fr": "Suit une consigne en deux étapes, comme « Pose le jouet et ferme la porte »",
+  "en": "Follows two-step instructions like \"Put the toy down and close the door.\""
+ },
+ {
+  "id": "cdc-30m-cognitive-4",
+  "months": 30,
+  "domain": "cognitive",
+  "fr": "Connaît au moins une couleur, par exemple montre le crayon rouge quand vous demandez « Lequel est rouge ? »",
+  "en": "Shows he knows at least one color, like pointing to a red crayon when you ask, \"Which one is red?\""
+ },
+ {
+  "id": "cdc-30m-movement-1",
+  "months": 30,
+  "domain": "movement",
+  "fr": "Tourne des objets avec les mains, comme une poignée de porte ou un couvercle à visser",
+  "en": "Uses hands to twist things, like turning doorknobs or unscrewing lids"
+ },
+ {
+  "id": "cdc-30m-movement-2",
+  "months": 30,
+  "domain": "movement",
+  "fr": "Enlève seul certains vêtements, comme un pantalon large ou une veste ouverte",
+  "en": "Takes some clothes off by himself, like loose pants or an open jacket"
+ },
+ {
+  "id": "cdc-30m-movement-3",
+  "months": 30,
+  "domain": "movement",
+  "fr": "Saute à pieds joints",
+  "en": "Jumps off the ground with both feet"
+ },
+ {
+  "id": "cdc-30m-movement-4",
+  "months": 30,
+  "domain": "movement",
+  "fr": "Tourne les pages d'un livre une à une quand vous lisez avec lui",
+  "en": "Turns book pages, one at a time, when you read to her"
+ },
+ {
+  "id": "cdc-36m-social-1",
+  "months": 36,
+  "domain": "social",
+  "fr": "Se calme dans les 10 minutes après votre départ, par exemple à la crèche ou chez la personne qui le garde",
+  "en": "Calms down within 10 minutes after you leave her, like at a childcare drop off",
+  "adapted": true
+ },
+ {
+  "id": "cdc-36m-social-2",
+  "months": 36,
+  "domain": "social",
+  "fr": "Remarque les autres enfants et va jouer avec eux",
+  "en": "Notices other children and joins them to play"
+ },
+ {
+  "id": "cdc-36m-language-1",
+  "months": 36,
+  "domain": "language",
+  "fr": "Discute avec vous avec au moins deux échanges de suite",
+  "en": "Talks with you in conversation using at least two back-and-forth exchanges"
+ },
+ {
+  "id": "cdc-36m-language-2",
+  "months": 36,
+  "domain": "language",
+  "fr": "Pose des questions « qui », « quoi », « où » ou « pourquoi », comme « Où est maman ? »",
+  "en": "Asks \"who,\" \"what,\" \"where,\" or \"why\" questions, like \"Where is mommy/daddy?\""
+ },
+ {
+  "id": "cdc-36m-language-3",
+  "months": 36,
+  "domain": "language",
+  "fr": "Dit ce qui se passe sur une image ou dans un livre quand vous demandez : « court », « mange », « joue »",
+  "en": "Says what action is happening in a picture or book when asked, like \"running,\" \"eating,\" or \"playing\""
+ },
+ {
+  "id": "cdc-36m-language-4",
+  "months": 36,
+  "domain": "language",
+  "fr": "Dit son prénom quand on le lui demande",
+  "en": "Says first name, when asked"
+ },
+ {
+  "id": "cdc-36m-language-5",
+  "months": 36,
+  "domain": "language",
+  "fr": "Parle assez bien pour être compris par les autres la plupart du temps",
+  "en": "Talks well enough for others to understand, most of the time"
+ },
+ {
+  "id": "cdc-36m-cognitive-1",
+  "months": 36,
+  "domain": "cognitive",
+  "fr": "Dessine un rond quand vous lui montrez comment faire",
+  "en": "Draws a circle, when you show him how"
+ },
+ {
+  "id": "cdc-36m-cognitive-2",
+  "months": 36,
+  "domain": "cognitive",
+  "fr": "Évite de toucher les objets chauds, comme une marmite sur le feu, quand vous le prévenez",
+  "en": "Avoids touching hot objects, like a stove, when you warn her",
+  "adapted": true
+ },
+ {
+  "id": "cdc-36m-movement-1",
+  "months": 36,
+  "domain": "movement",
+  "fr": "Enfile des objets, comme de grosses perles ou des pâtes",
+  "en": "Strings items together, like large beads or macaroni",
+  "adapted": true
+ },
+ {
+  "id": "cdc-36m-movement-2",
+  "months": 36,
+  "domain": "movement",
+  "fr": "Met seul certains vêtements, comme un pantalon large ou une veste",
+  "en": "Puts on some clothes by himself, like loose pants or a jacket"
+ },
+ {
+  "id": "cdc-36m-movement-3",
+  "months": 36,
+  "domain": "movement",
+  "fr": "Utilise une fourchette",
+  "en": "Uses a fork"
+ },
+ {
+  "id": "cdc-48m-social-1",
+  "months": 48,
+  "domain": "social",
+  "fr": "Fait semblant d'être quelqu'un d'autre en jouant (maîtresse, super-héros, chien)",
+  "en": "Pretends to be something else during play (teacher, superhero, dog)"
+ },
+ {
+  "id": "cdc-48m-social-2",
+  "months": 48,
+  "domain": "social",
+  "fr": "Demande à aller jouer avec d'autres enfants s'il n'y en a pas, comme « Je peux aller jouer avec Aïcha ? »",
+  "en": "Asks to go play with children if none are around, like \"Can I play with Alex?\"",
+  "adapted": true
+ },
+ {
+  "id": "cdc-48m-social-3",
+  "months": 48,
+  "domain": "social",
+  "fr": "Console ceux qui ont mal ou sont tristes, par exemple fait un câlin à un ami qui pleure",
+  "en": "Comforts others who are hurt or sad, like hugging a crying friend"
+ },
+ {
+  "id": "cdc-48m-social-4",
+  "months": 48,
+  "domain": "social",
+  "fr": "Évite le danger, par exemple ne saute pas de très haut au terrain de jeux",
+  "en": "Avoids danger, like not jumping from tall heights at the playground"
+ },
+ {
+  "id": "cdc-48m-social-5",
+  "months": 48,
+  "domain": "social",
+  "fr": "Aime « aider »",
+  "en": "Likes to be a \"helper\""
+ },
+ {
+  "id": "cdc-48m-social-6",
+  "months": 48,
+  "domain": "social",
+  "fr": "Adapte son comportement selon le lieu (lieu de culte, marché, terrain de jeux)",
+  "en": "Changes behavior based on where she is (place of worship, library, playground)",
+  "adapted": true
+ },
+ {
+  "id": "cdc-48m-language-1",
+  "months": 48,
+  "domain": "language",
+  "fr": "Fait des phrases d'au moins quatre mots",
+  "en": "Says sentences with four or more words"
+ },
+ {
+  "id": "cdc-48m-language-2",
+  "months": 48,
+  "domain": "language",
+  "fr": "Dit quelques mots d'une chanson, d'une histoire ou d'une comptine",
+  "en": "Says some words from a song, story, or nursery rhyme"
+ },
+ {
+  "id": "cdc-48m-language-3",
+  "months": 48,
+  "domain": "language",
+  "fr": "Raconte au moins une chose qui s'est passée dans sa journée, comme « J'ai joué au ballon »",
+  "en": "Talks about at least one thing that happened during her day, like \"I played soccer.\"",
+  "adapted": true
+ },
+ {
+  "id": "cdc-48m-language-4",
+  "months": 48,
+  "domain": "language",
+  "fr": "Répond à des questions simples comme « À quoi sert une chaussure ? » ou « À quoi sert un crayon ? »",
+  "en": "Answers simple questions like \"What is a coat for?\" or \"What is a crayon for?\"",
+  "adapted": true
+ },
+ {
+  "id": "cdc-48m-cognitive-1",
+  "months": 48,
+  "domain": "cognitive",
+  "fr": "Nomme quelques couleurs",
+  "en": "Names a few colors of items"
+ },
+ {
+  "id": "cdc-48m-cognitive-2",
+  "months": 48,
+  "domain": "cognitive",
+  "fr": "Dit ce qui se passe ensuite dans une histoire qu'il connaît bien",
+  "en": "Tells what comes next in a well-known story"
+ },
+ {
+  "id": "cdc-48m-cognitive-3",
+  "months": 48,
+  "domain": "cognitive",
+  "fr": "Dessine un bonhomme avec au moins trois parties du corps",
+  "en": "Draws a person with three or more body parts"
+ },
+ {
+  "id": "cdc-48m-movement-1",
+  "months": 48,
+  "domain": "movement",
+  "fr": "Attrape un gros ballon la plupart du temps",
+  "en": "Catches a large ball most of the time"
+ },
+ {
+  "id": "cdc-48m-movement-2",
+  "months": 48,
+  "domain": "movement",
+  "fr": "Se sert à manger ou verse de l'eau, sous la surveillance d'un adulte",
+  "en": "Serves herself food or pours water, with adult supervision"
+ },
+ {
+  "id": "cdc-48m-movement-3",
+  "months": 48,
+  "domain": "movement",
+  "fr": "Défait quelques boutons",
+  "en": "Unbuttons some buttons"
+ },
+ {
+  "id": "cdc-48m-movement-4",
+  "months": 48,
+  "domain": "movement",
+  "fr": "Tient un crayon entre les doigts et le pouce (pas à pleine main)",
+  "en": "Holds crayon or pencil between fingers and thumb (not a fist)"
+ },
+ {
+  "id": "cdc-60m-social-1",
+  "months": 60,
+  "domain": "social",
+  "fr": "Respecte les règles ou attend son tour dans les jeux avec d'autres enfants",
+  "en": "Follows rules or takes turns when playing games with other children"
+ },
+ {
+  "id": "cdc-60m-social-2",
+  "months": 60,
+  "domain": "social",
+  "fr": "Chante, danse ou joue la comédie pour vous",
+  "en": "Sings, dances, or acts for you"
+ },
+ {
+  "id": "cdc-60m-social-3",
+  "months": 60,
+  "domain": "social",
+  "fr": "Fait de petites tâches à la maison, comme ranger les chaussettes par paires ou débarrasser après le repas",
+  "en": "Does simple chores at home, like matching socks or clearing the table after eating"
+ },
+ {
+  "id": "cdc-60m-language-1",
+  "months": 60,
+  "domain": "language",
+  "fr": "Raconte une histoire entendue ou inventée avec au moins deux événements (par exemple, un chat coincé dans un arbre et un pompier qui le sauve)",
+  "en": "Tells a story she heard or made up with at least two events. For example, a cat was stuck in a tree and a firefighter saved it"
+ },
+ {
+  "id": "cdc-60m-language-2",
+  "months": 60,
+  "domain": "language",
+  "fr": "Répond à des questions simples sur un livre ou une histoire après l'avoir écoutée",
+  "en": "Answers simple questions about a book or story after you read or tell it to him"
+ },
+ {
+  "id": "cdc-60m-language-3",
+  "months": 60,
+  "domain": "language",
+  "fr": "Entretient une conversation avec plus de trois échanges de suite",
+  "en": "Keeps a conversation going with more than three back-and-forth exchanges"
+ },
+ {
+  "id": "cdc-60m-language-4",
+  "months": 60,
+  "domain": "language",
+  "fr": "Utilise ou reconnaît des rimes simples (bateau – gâteau, balle – salle)",
+  "en": "Uses or recognizes simple rhymes (bat-cat, ball-tall)"
+ },
+ {
+  "id": "cdc-60m-cognitive-1",
+  "months": 60,
+  "domain": "cognitive",
+  "fr": "Compte jusqu'à 10",
+  "en": "Counts to 10"
+ },
+ {
+  "id": "cdc-60m-cognitive-2",
+  "months": 60,
+  "domain": "cognitive",
+  "fr": "Nomme certains chiffres entre 1 et 5 quand vous les montrez",
+  "en": "Names some numbers between 1 and 5 when you point to them"
+ },
+ {
+  "id": "cdc-60m-cognitive-3",
+  "months": 60,
+  "domain": "cognitive",
+  "fr": "Utilise des mots du temps, comme « hier », « demain », « matin » ou « soir »",
+  "en": "Uses words about time, like \"yesterday,\" \"tomorrow,\" \"morning,\" or \"night\""
+ },
+ {
+  "id": "cdc-60m-cognitive-4",
+  "months": 60,
+  "domain": "cognitive",
+  "fr": "Reste attentif 5 à 10 minutes pendant une activité, comme une histoire ou du bricolage (les écrans ne comptent pas)",
+  "en": "Pays attention for 5 to 10 minutes during activities. For example, during story time or making arts and crafts (screen time does not count)"
+ },
+ {
+  "id": "cdc-60m-cognitive-5",
+  "months": 60,
+  "domain": "cognitive",
+  "fr": "Écrit quelques lettres de son prénom",
+  "en": "Writes some letters in her name"
+ },
+ {
+  "id": "cdc-60m-cognitive-6",
+  "months": 60,
+  "domain": "cognitive",
+  "fr": "Nomme certaines lettres quand vous les montrez",
+  "en": "Names some letters when you point to them"
+ },
+ {
+  "id": "cdc-60m-movement-1",
+  "months": 60,
+  "domain": "movement",
+  "fr": "Boutonne quelques boutons",
+  "en": "Buttons some buttons"
+ },
+ {
+  "id": "cdc-60m-movement-2",
+  "months": 60,
+  "domain": "movement",
+  "fr": "Saute à cloche-pied",
+  "en": "Hops on one foot"
+ }
+]

@@ -1,0 +1,5 @@
+{
+  // Les fonctions serveur Supabase s'exécutent avec Deno ; le reste du monorepo est du TypeScript Node/Vite.
+  "deno.enablePaths": ["supabase/functions"],
+  "deno.lint": true
+}

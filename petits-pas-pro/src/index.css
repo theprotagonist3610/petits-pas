@@ -1,0 +1,42 @@
+@import 'tailwindcss';
+@import '@fontsource-variable/nunito';
+
+/* Même palette que l'application parents (logo Petits Pas). */
+@theme {
+  --font-sans: 'Nunito Variable', ui-rounded, system-ui, sans-serif;
+
+  --color-sky-brand: #2f7fc1;
+  --color-sky-soft: #e3f0fa;
+  --color-leaf: #3fa776;
+  --color-leaf-soft: #e2f4ea;
+  --color-sun: #ef8445;
+  --color-sun-soft: #fdeadd;
+  --color-honey: #f2b134;
+  --color-honey-soft: #fdf3dc;
+  --color-teal-brand: #2b9c9a;
+  --color-teal-soft: #dff2f1;
+
+  --color-cream: #fffaf3;
+  --color-surface: #ffffff;
+  --color-ink: #1f2a37;
+  --color-ink-soft: #5b6573;
+  --color-line: #ece4d8;
+  --color-danger: #dc2626;
+}
+
+html,
+body {
+  background: var(--color-cream);
+  color: var(--color-ink);
+}
+
+body {
+  font-family: var(--font-sans);
+}
+
+input,
+select,
+textarea,
+button {
+  font: inherit;
+}

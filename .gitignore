@@ -1,0 +1,17 @@
+node_modules
+dist
+dev-dist
+*.local
+*.tsbuildinfo
+
+# Secrets : jamais commités (seul le modèle .env.example l'est)
+.env
+.env.*
+!.env.example
+
+# Supabase CLI
+supabase/.temp
+supabase/.branches
+
+# Identifiants OAuth téléchargés depuis Google Cloud : jamais dans le dépôt
+client_secret*.json

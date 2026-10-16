@@ -1,0 +1,25 @@
+{
+  "name": "@petits-pas/shared",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Code commun aux applications Petits Pas (parents) et Petits Pas Pro : types de la base, erreurs, validation, chiffrement.",
+  "exports": {
+    "./*": "./src/*.ts"
+  },
+  "peerDependencies": {
+    "@supabase/supabase-js": "^2.117.3",
+    "react": "^19.3.0"
+  },
+  "dependencies": {
+    "hash-wasm": "^4.12.0",
+    "libsodium-wrappers": "^0.8.4"
+  },
+  "devDependencies": {
+    "@types/libsodium-wrappers": "^0.7.14"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc -p tsconfig.json"
+  }
+}
