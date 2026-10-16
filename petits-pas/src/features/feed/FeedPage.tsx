@@ -308,7 +308,15 @@ export function FeedPage() {
         </AuthCard>
       )}
 
-      {feed.error !== undefined && !feed.posts && <FormAlert>{t('feed.offline')}</FormAlert>}
+      {feed.error !== undefined && !feed.posts && (
+        // « Hors connexion » seulement si le téléphone l'est vraiment ; sinon, une autre erreur (serveur…).
+        <div className="space-y-2">
+          <FormAlert>{navigator.onLine ? t('feed.loadError') : t('feed.offline')}</FormAlert>
+          <Button variant="secondary" onClick={() => void feed.reload()}>
+            {t('feed.retry')}
+          </Button>
+        </div>
+      )}
       {feed.posts?.length === 0 && <AuthCard>{t('feed.empty')}</AuthCard>}
       {feed.posts?.map((post) => (
         <PostCard key={post.id} post={post} canAsk={signedIn && !closed} onChanged={() => void feed.reload()} />

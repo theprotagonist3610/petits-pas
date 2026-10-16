@@ -193,6 +193,8 @@ export const fr = {
     signInToPost: 'Connectez-vous pour publier ou poser une question aux professionnels.',
     signIn: 'Se connecter',
     offline: 'Le fil d’actualité nécessite une connexion internet.',
+    loadError: 'Le fil d’actualité n’a pas pu être chargé.',
+    retry: 'Réessayer',
     unavailable: 'Le fil d’actualité n’est pas disponible dans cette version.',
     maintenance: 'Petits Pas est en maintenance : les publications reprendront très bientôt.',
     empty: 'Aucune publication pour le moment.',
